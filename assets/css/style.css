@@ -1,6 +1,5 @@
 body {
-	background: url(../images/green-geometric.png) no-repeat center center fixed;
-	background-size: cover;
+	background: url(../images/green-geometric.png) repeat;
 }
 
 h1 {
@@ -12,7 +11,7 @@ p {
 }
 
 #container {
-	margin-top: 25px;
+	margin-top: 20px;
 }
 
 header {
@@ -31,7 +30,7 @@ header h1 {
 section {
 	background-color: #fbe7c8;
 	width: 500px;
-	height: 400px;
+	height: 380px;
 	line-height: 1em;
 	margin: 25px auto 10px;
 }
@@ -54,7 +53,7 @@ section p {
 
 #random-number-generator {
 	background-color: #49db86;
-	font-size: 60px;
+	font-size: 50px;
 	color: purple;
 	width: 49%;
 	height: 100%;
@@ -94,7 +93,7 @@ section p {
 }
 
 #current-score h1 {
-	font-size: 150%;
+	font-size: 125%;
 	padding-top: 5px;
 	padding-left: 10px;
 	padding-bottom: 10px;
